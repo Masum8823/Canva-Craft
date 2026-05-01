@@ -71,3 +71,37 @@ All of them are organized here to **track my progress** and **showcase my creati
 ---
 
 ## 📊 Progress Tracker
+
+Design Growth Level: ███████░░░ 70%
+Consistency: ████████░░ 80%
+Creativity: █████████░ 90%
+
+
+---
+
+## 📌 Future Plans
+
+- ✨ Add more professional designs  
+- 🎨 Improve visual consistency  
+- 🚀 Explore advanced design tools  
+
+---
+
+## 🔗 Connect With Me
+
+> Portfolio building in progress... 🚧  
+
+---
+
+## 🙌 Final Words
+
+💬 This repository represents my **design journey** —  
+from simple academic work to more refined creative designs.  
+
+⭐ Feel free to explore and follow my progress!
+
+---
+
+<p align="center">
+  🔥 "Design is not just what it looks like — design is how it works."
+</p>
