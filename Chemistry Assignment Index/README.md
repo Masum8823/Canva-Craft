@@ -25,7 +25,7 @@ According to design practices, tools like Canva allow creating visually engaging
 ## 🖼️ Design Showcase  
 
 ### 🔹 Design 1 – Clean & Academic Style  
-![Design 1](./design1.png)
+![Design 1](Chemistry-Assignment-Index-Design-(1).png)
 
 **Why this design is strong:**  
 - Simple and highly readable  
@@ -36,7 +36,7 @@ According to design practices, tools like Canva allow creating visually engaging
 ---
 
 ### 🔹 Design 2 – Creative & Eye-Catching Style  
-![Design 2]()
+![Design 2](Chemistry-Assignment-Index-Design-(2).png)
 
 **Why this design is strong:**  
 - More visually attractive and engaging  
